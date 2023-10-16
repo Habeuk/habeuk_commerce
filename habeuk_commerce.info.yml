@@ -1,0 +1,74 @@
+name: habeuk_commerce
+type: profile
+description: "habeuk profile installation"
+core_version_requirement: ^9 || ^10
+
+# Ces modules ne peuvent etre desinstaller par l'utilisateur
+dependencies:
+  - paragraphs
+  - pathauto
+  - formatage_models
+  - generate_style_theme
+  - more_fields
+  - apivuejs
+  - filesmanager
+
+distribution:
+  name: "HABEUK template by habeuk.com"
+#  langcode: fr # l'utilisateur doit pouvoir selectionner la langue.
+
+# Ces modules peuvent etre desinstaller par l'utilisateur.
+install:
+  #standard module
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor5
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+  #contrib
+  - transliterate_filenames
+  #custom
+  - statistics
+  - admin_toolbar_tools
+  - geolocation
+  - field_formatter_class
+  - twig_vardumper
+  - hot_models
+  - spaker_mod
+  - clothingslayouts
+  - fullswiperoptions
+  - login_rx_vuejs
+  - owlcarousel
+  - habeuk_utilitaire
+
+themes:
+  - claro
+  - wb_universe
+  - theme_reference_wbu

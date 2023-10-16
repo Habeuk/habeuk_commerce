@@ -1,0 +1,30 @@
+<?php
+
+/**
+ * @file
+ * Install, update and uninstall hooks for the habeuk_commerce install profile.
+ */
+
+/**
+ * Implements hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ *
+ * @see system_install()
+ */
+function habeuk_commerce_install() {
+  // First, do everything that is done in the standard profile.
+  include_once DRUPAL_ROOT . '/core/profiles/standard/standard.install';
+  standard_install();
+
+  /**
+   * On definie theme_reference_wbu comme theme par defaut.
+   * 
+   * @var \Drupal\Core\Config\ConfigFactoryInterface $configFactory
+   */
+  $configFactory = \Drupal::service('config.factory');
+  $editConfig = $configFactory->getEditable('system.theme');
+  $editConfig->set('default', 'theme_reference_wbu');
+  $editConfig->set('admin', 'claro');
+  $editConfig->save();
+}

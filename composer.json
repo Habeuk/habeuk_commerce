@@ -1,0 +1,23 @@
+{
+  "name": "habeuk/habeuk_commerce",
+  "description": "profile habeuk",
+  "type": "drupal-custom-profile",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kouwa stephane",
+      "email": "kksasteph888@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "habeuk/habeuk_profile": "^3.0"
+  }
+}
