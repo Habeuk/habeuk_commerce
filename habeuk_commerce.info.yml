@@ -67,6 +67,25 @@ install:
   - login_rx_vuejs
   - owlcarousel
   - habeuk_utilitaire
+  #commerce
+  - commerce
+  - commerce_autosku
+  - commerce_cart_api
+  - commerce_paybox_payment
+  - commerce_paypal
+  - commerce_shipping
+  - commerce_stock
+  - commerce_stripe
+  - commerce_wishlist
+  - facets
+  - search_api
+  - webform
+  - commerceformatage
+  - fast_models
+  - layout_custom_style
+  - layoutscommerce
+  - rating_app
+  - stripebyhabeuk
 
 themes:
   - claro
