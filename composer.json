@@ -18,6 +18,14 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "habeuk/habeuk_profile": "^3.0"
+    "habeuk/habeuk_profile": "^3.0",
+    "drupal/rating_app": "^1.0@alpha",
+    "drupal/commerce": "^2.36",
+    "drupal/commerce_autosku": "^2.1",
+    "drupal/commerce_shipping": "^2.6",
+    "drupal/commerce_stock": "^1.2",
+    "drupal/facets": "^2.0",
+    "drupal/search_api": "^1.30"
+    
   }
 }
