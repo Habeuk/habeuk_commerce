@@ -81,7 +81,6 @@ install:
   - webform
   - fast_models
   - layout_custom_style
-  - layoutscommerce
   - rating_app
 
 themes:
