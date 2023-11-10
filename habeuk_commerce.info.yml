@@ -79,7 +79,6 @@ install:
   - facets
   - search_api
   - webform
-  - commerceformatage
   - fast_models
   - layout_custom_style
   - layoutscommerce

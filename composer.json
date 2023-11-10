@@ -30,7 +30,6 @@
     "drupal/facets": "^3.0@beta",
     "drupal/search_api": "^1.30",
     "drupal/webform": "^6.1",
-    "habeuk/commerceformatage": "dev-1x",
     "habeuk/fast_models": "dev-1x",
     "habeuk/layout_custom_style": "^0.0.3",
     "habeuk/layoutscommerce": "dev-1x",
