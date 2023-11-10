@@ -70,7 +70,6 @@ install:
   #commerce
   - commerce
   - commerce_autosku
-  - commerce_cart_api
   - commerce_paybox_payment
   - commerce_paypal
   - commerce_shipping
