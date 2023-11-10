@@ -83,7 +83,6 @@ install:
   - layout_custom_style
   - layoutscommerce
   - rating_app
-  - stripebyhabeuk
 
 themes:
   - claro

@@ -33,7 +33,6 @@
     "habeuk/fast_models": "dev-1x",
     "habeuk/layout_custom_style": "^0.0.3",
     "habeuk/layoutscommerce": "dev-1x",
-    "drupal/rating_app": "^1.0@alpha",
-    "habeuk/stripebyhabeuk": "^1.0"
+    "drupal/rating_app": "^1.0@alpha"
   }
 }
