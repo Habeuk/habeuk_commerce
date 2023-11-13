@@ -82,6 +82,7 @@ install:
   - fast_models
   - layout_custom_style
   - rating_app
+  - layoutscommerce
 
 themes:
   - claro
