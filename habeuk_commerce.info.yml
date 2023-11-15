@@ -83,6 +83,7 @@ install:
   - layout_custom_style
   - rating_app
   - layoutscommerce
+  - single_image_formatter
 
 themes:
   - claro
