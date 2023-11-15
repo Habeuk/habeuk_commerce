@@ -70,7 +70,6 @@ install:
   #commerce
   - commerce
   - commerce_autosku
-  - commerce_cart_api
   - commerce_paybox_payment
   - commerce_paypal
   - commerce_shipping
@@ -80,12 +79,11 @@ install:
   - facets
   - search_api
   - webform
-  - commerceformatage
   - fast_models
   - layout_custom_style
-  - layoutscommerce
   - rating_app
-  - stripebyhabeuk
+  - layoutscommerce
+  - single_image_formatter
 
 themes:
   - claro

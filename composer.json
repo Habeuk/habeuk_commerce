@@ -21,7 +21,6 @@
     "habeuk/habeuk_profile": "^3.0",
     "drupal/commerce": "^2.36",
     "drupal/commerce_autosku": "dev-2.x",
-    "drupal/commerce_cart_api": "^1.6",
     "drupal/commerce_paybox_payment": "^1.0",
     "drupal/commerce_paypal": "^1.4",
     "drupal/commerce_shipping": "^2.6",
@@ -31,11 +30,10 @@
     "drupal/facets": "^3.0@beta",
     "drupal/search_api": "^1.30",
     "drupal/webform": "^6.1",
-    "habeuk/commerceformatage": "dev-1x",
     "habeuk/fast_models": "dev-1x",
     "habeuk/layout_custom_style": "^0.0.3",
     "habeuk/layoutscommerce": "dev-1x",
     "drupal/rating_app": "^1.0@alpha",
-    "habeuk/stripebyhabeuk": "^1.0"
+    "drupal/single_image_formatter": "^1.7"
   }
 }
