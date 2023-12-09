@@ -17,8 +17,7 @@
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "require": {
-    "habeuk/habeuk_profile": "^3.0",
+  "require": {    
     "drupal/commerce": "^2.36",
     "drupal/commerce_autosku": "^2.1",
     "drupal/commerce_paybox_payment": "^1.0",
@@ -30,6 +29,7 @@
     "drupal/facets": "^3",
     "drupal/search_api": "^1.30",
     "drupal/webform": "^6.1",
+    "habeuk/habeuk_profile": "^4.0|dev-4x",
     "habeuk/fast_models": "dev-1x",
     "habeuk/layout_custom_style": "^0.0.3",
     "habeuk/layoutscommerce": "dev-1x",
