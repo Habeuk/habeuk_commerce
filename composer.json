@@ -30,8 +30,7 @@
     "drupal/search_api": "^1.30",
     "drupal/webform": "^6.1",
     "habeuk/habeuk_profile": "^4.0|dev-4x",
-    "habeuk/fast_models": "dev-1x",
-    "habeuk/layout_custom_style": "^0.0.3",
+    "habeuk/fast_models": "dev-1x",    
     "habeuk/layoutscommerce": "dev-1x",
     "drupal/rating_app": "^1.0@alpha",
     "drupal/single_image_formatter": "^1.7"
