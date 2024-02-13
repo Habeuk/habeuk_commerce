@@ -29,10 +29,17 @@
     "drupal/facets": "^3",
     "drupal/search_api": "^1.30",
     "drupal/webform": "^6.1",
-    "habeuk/habeuk_profile": "^4.0|dev-4x",
+    "habeuk/habeuk_profile": "^4.0.4|dev-4x",
     "habeuk/fast_models": "dev-1x",    
     "habeuk/layoutscommerce": "dev-1x",
     "drupal/rating_app": "^1.0@alpha",
-    "drupal/single_image_formatter": "^1.7"
+    "drupal/single_image_formatter": "^1.7",
+    "stephane888/view_filter_display": "^1.0.6",
+    "habeuk/view_filter_promotion": "^1.0@alpha"
+  },
+  "config": {
+    "allow-plugins": {
+      "cweagans/composer-patches": true
+    }
   }
 }
