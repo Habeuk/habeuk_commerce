@@ -26,7 +26,7 @@
     "drupal/commerce_stock": "^1.0",
     "drupal/commerce_stripe": "^1.0",
     "drupal/webform": "^6.1",
-    "habeuk/habeuk_profile": "^4.2.0|dev-4x",
+    "habeuk/habeuk_profile": "^4.2.1|dev-4x",
     "habeuk/clothingslayouts": "dev-1x|^1.1.6", 
     "habeuk/layoutscommerce": "dev-1x",
     "drupal/rating_app": "^1.0@alpha",

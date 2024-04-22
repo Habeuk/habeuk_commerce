@@ -53,7 +53,7 @@ install:
   - tour
   - automated_cron
   #contrib
-  - transliterate_filenames
+  
   #custom
   - statistics
   - admin_toolbar_tools
@@ -65,7 +65,6 @@ install:
   - clothingslayouts
   - fullswiperoptions
   - login_rx_vuejs
-  - owlcarousel
   - habeuk_utilitaire
   #commerce
   - commerce
