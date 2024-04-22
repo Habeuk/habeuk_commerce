@@ -75,9 +75,6 @@ install:
   - commerce_shipping
   - commerce_stock
   - commerce_stripe
-  - commerce_wishlist
-  - facets
-  - search_api
   - webform
   - fast_models
   - layout_custom_style
@@ -88,4 +85,3 @@ install:
 themes:
   - claro
   - wb_universe
-  - theme_reference_wbu
