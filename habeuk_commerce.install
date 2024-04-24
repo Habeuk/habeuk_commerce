@@ -1,5 +1,5 @@
 <?php
-use Drupal\habeuk_profile\HabeukProfileApplyConfig;
+use Drupal\habeuk_commerce\HabeukProfileApplyConfig;
 
 /**
  *

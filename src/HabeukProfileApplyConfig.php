@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\habeuk_profile;
+namespace Drupal\habeuk_commerce;
 
 use Drupal\generate_style_theme\Entity\ConfigThemeEntity;
 
