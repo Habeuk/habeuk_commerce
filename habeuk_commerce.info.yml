@@ -19,7 +19,7 @@ distribution:
 
 # Ces modules peuvent etre desinstaller par l'utilisateur.
 install:
-  #standard module
+  # core begin standard : D10.2.5
   - node
   - history
   - block
@@ -50,21 +50,27 @@ install:
   - file
   - views
   - views_ui
-  - tour
   - automated_cron
-  #contrib
-  
-  #custom
+  - announcements_feed
+  #core begin standard : D10.2.5
   - statistics
+  - config_translation
+  ######## CONTRIB
+  
+  ######## CUSTOM 
   - admin_toolbar_tools
   - geolocation
   - twig_vardumper
   - hot_models
   - spaker_mod
-  - clothingslayouts
   - fullswiperoptions
   - login_rx_vuejs
   - habeuk_utilitaire
+  - more_fields
+  - apivuejs
+  - filesmanager
+  - layout_custom_style
+  - fast_models
   #commerce
   - commerce
   - commerce_autosku
@@ -74,8 +80,6 @@ install:
   - commerce_stock
   - commerce_stripe
   - webform
-  - fast_models
-  - layout_custom_style
   - rating_app
   - layoutscommerce
   - single_image_formatter
