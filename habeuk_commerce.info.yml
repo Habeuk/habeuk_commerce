@@ -71,6 +71,7 @@ install:
   - filesmanager
   - layout_custom_style
   - fast_models
+  - bestlayouts
   #commerce
   - commerce
   - commerce_autosku
