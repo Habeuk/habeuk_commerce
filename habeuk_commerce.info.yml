@@ -56,7 +56,15 @@ install:
   - statistics
   - config_translation
   ######## CONTRIB
-  
+  - webform
+  #commerce
+  - commerce
+  - commerce_autosku
+  - commerce_paybox_payment
+  - commerce_paypal
+  - commerce_shipping
+  - commerce_stock
+  - commerce_stripe
   ######## CUSTOM 
   - admin_toolbar_tools
   - geolocation
@@ -72,18 +80,11 @@ install:
   - layout_custom_style
   - fast_models
   - bestlayouts
-  #commerce
-  - commerce
-  - commerce_autosku
-  - commerce_paybox_payment
-  - commerce_paypal
-  - commerce_shipping
-  - commerce_stock
-  - commerce_stripe
-  - webform
+  #commerce  
   - rating_app
   - layoutscommerce
   - single_image_formatter
+  - commerceformatage
 
 themes:
   - claro
