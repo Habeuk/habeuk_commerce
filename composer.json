@@ -33,7 +33,7 @@
     "drupal/single_image_formatter": "^1.7",
     "stephane888/view_filter_display": "^1.0.6",
     "habeuk/view_filter_promotion": "^1.0@alpha",
-    "habeuk/commerceformatage": "^1.1"
+    "habeuk/commerceformatage": "^1.1.5|dev-1x"
   },
   "config": {
     "allow-plugins": {

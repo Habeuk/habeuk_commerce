@@ -62,8 +62,10 @@ install:
   - commerce_autosku
   - commerce_paybox_payment
   - commerce_paypal
+  - commerce_checkout
   - commerce_shipping
   - commerce_stock
+  - commerce_stock_field
   - commerce_stripe
   ######## CUSTOM 
   - admin_toolbar_tools
@@ -75,6 +77,7 @@ install:
   - login_rx_vuejs
   - habeuk_utilitaire
   - more_fields
+  - more_fields_video
   - apivuejs
   - filesmanager
   - layout_custom_style
