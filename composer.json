@@ -17,7 +17,7 @@
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "require": {    
+  "require": {
     "drupal/commerce": "^2.36",
     "drupal/commerce_autosku": "^2.1",
     "drupal/commerce_paybox_payment": "^1.0",
@@ -26,14 +26,16 @@
     "drupal/commerce_stock": "^1.0",
     "drupal/commerce_stripe": "^1.0",
     "drupal/webform": "^6.1",
+    "drupal/geolocation": "*",
     "habeuk/habeuk_profile": "^4.2.5|dev-4x",
-    "habeuk/clothingslayouts": "dev-1x|^1.1.6", 
+    "habeuk/clothingslayouts": "dev-1x|^1.1.6",
     "habeuk/layoutscommerce": "1.8.8|dev-1x",
     "drupal/rating_app": "^1.0@alpha",
     "drupal/single_image_formatter": "^1.7",
     "stephane888/view_filter_display": "^1.0.6",
     "habeuk/view_filter_promotion": "^1.0@alpha",
-    "habeuk/commerceformatage": "^1.1.5|dev-1x"
+    "habeuk/commerceformatage": "^1.1.5|dev-1x",
+    "habeuk/login_rx_vuejs": "*"
   },
   "config": {
     "allow-plugins": {
