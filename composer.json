@@ -28,13 +28,13 @@
     "drupal/webform": "^6.1",
     "drupal/geolocation": "*",
     "habeuk/habeuk_profile": "^4.2.5|dev-4x",
-    "habeuk/clothingslayouts": "dev-1x|^1.1.6",
-    "habeuk/layoutscommerce": "1.8.8|dev-1x",
+    "habeuk/clothingslayouts": "dev-1x|^1.1.10",
+    "habeuk/layoutscommerce": "^1.8.11|dev-1.x",
     "drupal/rating_app": "^1.0@alpha",
     "drupal/single_image_formatter": "^1.7",
     "stephane888/view_filter_display": "^1.0.6",
     "habeuk/view_filter_promotion": "^1.0@alpha",
-    "habeuk/commerceformatage": "^1.1.5|dev-1x",
+    "habeuk/commerceformatage": "^1.1.12|dev-1x",
     "habeuk/login_rx_vuejs": "*"
   },
   "config": {
