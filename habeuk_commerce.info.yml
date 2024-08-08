@@ -67,6 +67,7 @@ install:
   - commerce_stock
   - commerce_stock_field
   - commerce_stripe
+  - better_exposed_filters
   ######## CUSTOM 
   - admin_toolbar_tools
   - geolocation
@@ -89,6 +90,7 @@ install:
   - single_image_formatter
   - commerceformatage
   - blockscontent
+  - mit_models
 
 themes:
   - claro
