@@ -35,7 +35,9 @@
     "stephane888/view_filter_display": "^1.0.6",
     "habeuk/view_filter_promotion": "^1.0@alpha",
     "habeuk/commerceformatage": "^1.1.12|dev-1x",
-    "habeuk/login_rx_vuejs": "*"
+    "habeuk/login_rx_vuejs": "*",
+    "drupal/select2": "^1.15",
+    "habeuk/contextual_more_links": "^1.0"
   },
   "config": {
     "allow-plugins": {

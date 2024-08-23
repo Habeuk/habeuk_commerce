@@ -57,6 +57,7 @@ install:
   - config_translation
   ######## CONTRIB
   - webform
+  - select2
   #commerce
   - commerce
   - commerce_autosku
