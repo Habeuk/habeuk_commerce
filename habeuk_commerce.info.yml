@@ -55,6 +55,7 @@ install:
   #core begin standard : D10.2.5
   - statistics
   - config_translation
+  - datetime
   ######## CONTRIB
   - webform
   - select2
