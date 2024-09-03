@@ -86,6 +86,7 @@ install:
   - layout_custom_style
   - fast_models
   - bestlayouts
+  - vixcon
   #commerce  
   - rating_app
   - layoutscommerce
