@@ -2,9 +2,9 @@ langcode: fr
 status: true
 dependencies:
   config:
-    - block_content.type.footer
-id: block_content.footer
-target_entity_type_id: block_content
+    - paragraphs.paragraphs_type.footer
+id: paragraph.footer
+target_entity_type_id: paragraph
 target_bundle: footer
 default_langcode: current_interface
 language_alterable: true
