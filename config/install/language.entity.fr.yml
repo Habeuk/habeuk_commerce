@@ -1,0 +1,10 @@
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dv8z7LQh472vxesb1bDdhTN0NCIkJXdLI1flzgPWAiY
+id: fr
+label: Français
+direction: ltr
+weight: -10
+locked: false
