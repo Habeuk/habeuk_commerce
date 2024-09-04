@@ -59,6 +59,7 @@ install:
   ######## CONTRIB
   - webform
   - select2
+  - phone_international
   #commerce
   - commerce
   - commerce_autosku
