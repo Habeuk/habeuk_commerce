@@ -87,6 +87,8 @@ install:
   - fast_models
   - bestlayouts
   - vixcon
+  - fielditem_renderby_view
+  - owlcarousel
   #commerce  
   - rating_app
   - layoutscommerce

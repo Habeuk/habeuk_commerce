@@ -37,7 +37,8 @@
     "habeuk/commerceformatage": "^1.1.12|dev-1x",
     "habeuk/login_rx_vuejs": "^2.4.2|dev-2x",
     "drupal/select2": "^1.15",
-    "habeuk/contextual_more_links": "^1.0"
+    "habeuk/contextual_more_links": "^1.0",
+    "stephane888/owlcarousel": "^1.1"
   },
   "config": {
     "allow-plugins": {
