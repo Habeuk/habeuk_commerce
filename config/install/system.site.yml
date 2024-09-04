@@ -1,13 +1,13 @@
-langcode: en
+langcode: fr
 uuid: ''
-name: ''
-mail: ''
-slogan: ''
+name: 'Drush Site-Install'
+mail: admin@example.com
+slogan: 'Ensemble, réalisons vos projets numériques'
 page:
   403: ''
   404: ''
-  front: /node
+  front: /blocks_contents/17
 admin_compact_mode: false
 weight_select_max: 100
-default_langcode: en
-mail_notification: null
+default_langcode: fr
+

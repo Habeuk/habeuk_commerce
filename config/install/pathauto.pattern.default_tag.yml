@@ -3,8 +3,6 @@ status: true
 dependencies:
   module:
     - taxonomy
-_core:
-  default_config_hash: 5jEjMGfWuQB4yM_Sb_dFxSxj55owLYCizTL7i6QoZhE
 id: default_tag
 label: 'Default tag'
 type: 'canonical_entities:taxonomy_term'

@@ -3,8 +3,6 @@ status: true
 dependencies:
   module:
     - node
-_core:
-  default_config_hash: wuxTN-OJg2Opx3jGud7Hdcztsqojtp6sBNqSJPy7pZ4
 id: default_node
 label: 'Default node'
 type: 'canonical_entities:node'
