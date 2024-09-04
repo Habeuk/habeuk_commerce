@@ -1,8 +1,0 @@
-langcode: fr
-status: true
-dependencies: {  }
-name: 'Tags produits'
-vid: tags_produits
-description: null
-weight: 0
-new_revision: false
