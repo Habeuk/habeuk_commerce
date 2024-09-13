@@ -52,10 +52,11 @@ install:
   - views_ui
   - automated_cron
   - announcements_feed
-  #core begin standard : D10.2.5
+  #core end standard : D10.2.5
   - statistics
   - config_translation
   - datetime
+  - content_translation
   ######## CONTRIB
   - webform
   - select2
