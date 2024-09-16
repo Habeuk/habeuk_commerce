@@ -29,7 +29,7 @@
     "drupal/geolocation": "*",
     "habeuk/habeuk_profile": "^4.4.23|dev-4x",
     "habeuk/clothingslayouts": "dev-1x|^1.1.10",
-    "habeuk/layoutscommerce": "^1.8.11|dev-1.x",
+    "habeuk/layoutscommerce": "^1.8.13|dev-1.x",
     "drupal/rating_app": "^1.0@alpha",
     "drupal/single_image_formatter": "^1.7",
     "stephane888/view_filter_display": "^1.0.6",
