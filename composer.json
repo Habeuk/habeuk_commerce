@@ -27,7 +27,7 @@
     "drupal/commerce_stripe": "^1.0",
     "drupal/webform": "^6.1",
     "drupal/geolocation": "*",
-    "habeuk/habeuk_profile": "^4.4.23|dev-4x",
+    "habeuk/habeuk_profile": "^4.4.24|dev-4x",
     "habeuk/clothingslayouts": "dev-1x|^1.1.10",
     "habeuk/layoutscommerce": "^1.8.13|dev-1.x",
     "drupal/rating_app": "^1.0@alpha",
