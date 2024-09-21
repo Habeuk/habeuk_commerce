@@ -38,7 +38,8 @@
     "habeuk/login_rx_vuejs": "^2.4.2|dev-2x",
     "drupal/select2": "^1.15",
     "habeuk/contextual_more_links": "^1.0",
-    "stephane888/owlcarousel": "^1.1|dev-1x"
+    "stephane888/owlcarousel": "^1.1|dev-1x",
+    "drupal/commerce_product_taxonomy_filter": "^1.0"
   },
   "config": {
     "allow-plugins": {
