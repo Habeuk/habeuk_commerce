@@ -1,4 +1,4 @@
-name: habeuk_commerce
+name: Habeuk e-commerce
 type: profile
 description: "habeuk profile installation"
 core_version_requirement: ^9 || ^10
@@ -12,9 +12,11 @@ dependencies:
   - more_fields
   - apivuejs
   - filesmanager
-
+  
+# Ce paramettre est utilisé pour definir le profile par defaut.
 distribution:
-  name: "HABEUK template by habeuk.com"
+  name: "E-commerce profile by habeuk.com"
+  weight: -9
 #  langcode: fr # l'utilisateur doit pouvoir selectionner la langue.
 
 # Ces modules peuvent etre desinstaller par l'utilisateur.
