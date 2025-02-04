@@ -76,7 +76,6 @@ install:
   - better_exposed_filters
   ######## CUSTOM 
   - admin_toolbar_tools
-  - geolocation
   - twig_vardumper
   - hot_models
   - spaker_mod
@@ -96,7 +95,6 @@ install:
   #commerce  
   - rating_app
   - layoutscommerce
-  - single_image_formatter
   - commerceformatage
   - blockscontent
   - mit_models
