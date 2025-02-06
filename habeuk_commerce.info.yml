@@ -92,6 +92,7 @@ install:
   - vixcon
   - fielditem_renderby_view
   - owlcarousel
+  - view_filter_display
   #commerce  
   - rating_app
   - layoutscommerce

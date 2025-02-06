@@ -35,7 +35,7 @@
     "habeuk/layoutscommerce": "^1.8.14|dev-1.x",    
     "stephane888/view_filter_display": "^1.0.6",    
     "habeuk/commerceformatage": "^1.1.20|dev-1x",
-    "habeuk/login_rx_vuejs": "^2.4.4|dev-2x",    
+    "habeuk/login_rx_vuejs": "^2.4.5|dev-2x",    
     "habeuk/contextual_more_links": "^1.0.2|dev-1x",
     "stephane888/owlcarousel": "^1.1.5|dev-1x"    
   },
