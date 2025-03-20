@@ -77,8 +77,6 @@ install:
   ######## CUSTOM 
   - admin_toolbar_tools
   - twig_vardumper
-  - hot_models
-  - spaker_mod
   - fullswiperoptions
   - login_rx_vuejs
   - habeuk_utilitaire
@@ -87,9 +85,7 @@ install:
   - apivuejs
   - filesmanager
   - layout_custom_style
-  - fast_models
   - bestlayouts
-  - vixcon
   - fielditem_renderby_view
   - owlcarousel
   - view_filter_display
@@ -98,7 +94,6 @@ install:
   - layoutscommerce
   - commerceformatage
   - blockscontent
-  - mit_models
 
 themes:
   - claro
